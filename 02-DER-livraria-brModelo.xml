@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="F8D8-3D-A6EF-21-F7B1-7B-CE">
+    <InfoDiagrama ID="1">
+        <Versao Valor="3.2.0"/>
+        <Autores/>
+        <Observacao/>
+        <Width Valor="4096"/>
+        <Height Valor="4096"/>
+        <Alinhamento_v Valor="50"/>
+        <Alinhamento_h Valor="60"/>
+        <Zoom Valor="100"/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Localizacao Left="0" Top="0"/>
+        <Realce Valor="false"/>
+    </InfoDiagrama>
+    <Entidade ID="2">
+        <Bounds Height="58" Left="122" Top="149" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>Clientes</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <AtributosOcultos Valor=""/>
+    </Entidade>
+    <Entidade ID="4">
+        <Bounds Height="58" Left="347" Top="147" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>Livros</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="true"/>
+        <AtributosOcultos Valor=""/>
+    </Entidade>
+    <Entidade ID="5">
+        <Bounds Height="58" Left="349" Top="264" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>Editoras</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <AtributosOcultos Valor=""/>
+    </Entidade>
+    <Entidade ID="6">
+        <Bounds Height="58" Left="344" Top="47" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>Pedido</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <AtributosOcultos Valor=""/>
+    </Entidade>
+    <Entidade ID="7">
+        <Bounds Height="58" Left="592" Top="149" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>Estoque</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <AtributosOcultos Valor=""/>
+    </Entidade>
+    <Entidade ID="8">
+        <Bounds Height="71" Left="342" Top="141" Width="131"/>
+        <DisablePainted Valor="false"/>
+        <Texto/>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <AtributosOcultos Valor=""/>
+    </Entidade>
+    <Entidade ID="19">
+        <Bounds Height="71" Left="338" Top="41" Width="132"/>
+        <DisablePainted Valor="false"/>
+        <Texto/>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <AtributosOcultos Valor=""/>
+    </Entidade>
+    <Entidade ID="21">
+        <Bounds Height="69" Left="587" Top="144" Width="133"/>
+        <DisablePainted Valor="false"/>
+        <Texto/>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <AtributosOcultos Valor=""/>
+    </Entidade>
+</DIAGRAMA>
